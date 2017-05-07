@@ -12,4 +12,4 @@
 
 </ul>
 
-<h3>Note - Internet is required to run this project properly.</h3>
+<h4>Note - Internet is required to run this project properly.</h4>
