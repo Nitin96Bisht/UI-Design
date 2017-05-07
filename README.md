@@ -7,7 +7,9 @@
 
 <ul>
 
-<l1>Download project.</l1>
-<l1>Keep both files in same directory.</l1>
+<li>Download project.</li>
+<li>Keep both files in same directory.</li>
 
 </ul>
+
+<h3>Note - Internet is required to run this project properly.</h3>
